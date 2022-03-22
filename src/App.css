@@ -1,3 +1,31 @@
+.App h3, .App p{
+  padding: 0px 50px;
+  text-align: left;
+  display: inline-flex;
+}
+
+.App h1{
+  padding-top:20px;
+}
+
+.App nav{
+  padding-bottom: 10px; 
+  border-bottom: 5px solid #0000cd
+}
+
+.mainMenu {
+  text-align: left;
+}
+
+.mainMenu ul{
+  list-style-type:none;
+}
+
+.mainMenu li{
+  display:inline;
+  padding: 5px 15px;
+}
+
 .App {
   text-align: center;
 }
